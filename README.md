@@ -2,7 +2,7 @@
  I created a Hostel Management System to automate and streamline the various administrative tasks involved in managing a hostel. The system allows hostel administrators to efficiently manage student information, room allocations, fee payments, and other related activities.
 
 GUI Development:
-I utilized Python's GUI libraries, such as Tkinter, to design an intuitive and visually appealing interface for the hostel management system. The GUI provides a user-friendly environment for administrators to interact with the system, making it easier to perform tasks and access information quickly.
+I utilized Python's GUI library Tkinter, to design an intuitive and visually appealing interface for the hostel management system. The GUI provides a user-friendly environment for administrators to interact with the system, making it easier to perform tasks and access information quickly.
 
 Database Management:
 To store and manage the data efficiently, I implemented a relational database using SQL. By utilizing SQL, I designed the database schema to effectively represent the various entities and relationships within the hostel management system. This allows for structured data storage and retrieval, ensuring data integrity and efficient data manipulation.
